@@ -35,7 +35,7 @@
         };
 
         SYMLayer {
-            bindings = <&lt 0 K_COPY>;
+            bindings = <&lt 2 K_COPY>;
             key-positions = <13 12 11>;
         };
 
