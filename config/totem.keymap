@@ -32,17 +32,17 @@
     combos {
         compatible = "zmk,combos";
 
-        NAV-Layer {
+        NAVLayer {
             bindings = <&lt 1 K_PASTE>;
             key-positions = <16 17 18>;
         };
 
-        SYM-Layer {
+        SYMLayer {
             bindings = <&lt 0 K_COPY>;
             key-positions = <13 12 11>;
         };
 
-        BASE-Layer {
+        BASELayer {
             bindings = <&lt 0 K_UNDO>;
             key-positions = <34 35>;
         };
