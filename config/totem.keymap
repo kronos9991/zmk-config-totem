@@ -46,8 +46,6 @@
             bindings = <&lt 0 K_UNDO>;
             key-positions = <34 35>;
         };
-
-        AltTab {
             bindings = <&kp LA(PAGE_UP)>;
             key-positions = <16 17>;
         };
